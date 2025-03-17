@@ -1,0 +1,11 @@
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-groq===0.1.9
+unstructured==0.14.6
+selenium==4.21.0
+chromadb
+streamlit
+pandas
+python-dotenv==1.0.0
+onnxruntime
+uuid
